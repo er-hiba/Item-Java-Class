@@ -1,2 +1,4 @@
-# Item-Java-Class
-A Java class example demonstrating the calculation of total prices based on initial price and VAT rate.
+## Description
+An illustrative Java class example showcasing the computation of total prices derived from initial prices and VAT rates, demonstrating basic price calculation functionalities within a class structure.
+## Output
+<img src="example.png">
